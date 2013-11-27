@@ -21,6 +21,6 @@ jp.bundles=
 #jp.builddependency.1=
 jp.descrchecksum=
 jp.hrdchecksum=
-jp.domain=jpdesktop
+jp.domain=jsdesktop
 jp.process.tcpports=
 jp.process.startuptime=30
