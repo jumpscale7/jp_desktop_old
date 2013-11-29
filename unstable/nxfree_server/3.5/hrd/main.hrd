@@ -21,6 +21,6 @@ jp.bundles=linux64:24d6cdd5889ce17419104f79634cbcf9
 #jp.builddependency.1=
 jp.descrchecksum=400304f8eea1d81743bad25e030c65e3
 jp.hrdchecksum=3d2baa23052349f39bd7aa9e6e901c0c
-jp.domain=desktop
+jp.domain=jsdesktop
 jp.process.tcpports=
 jp.process.startuptime=30
