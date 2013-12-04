@@ -9,9 +9,17 @@ def main(j,jp):
     #args.qp.installUbuntuDebs()
     
     #shortcut to some usefull install tools
-    #do=j.system.installtools
+    do=j.system.installtools
 
     #configuration is not done in this step !!!!!
     #copying files from files section of jpackages is not done in this step
+
+    cmd1="dpkg --add-architecture i386"
+    do.execute(cmd1)
+
+    # cmd2="apt-get update"
+    # do.execute(cmd2)
+
+    cmd3="apt-get install libx11-6:i386 libxmu6:i386 libxext6:i386 libxrender1:i386 libstdc++6:i386 libc6:i386"
+    do.execute(cmd3)
     
-    pass
