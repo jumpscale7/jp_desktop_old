@@ -17,7 +17,7 @@ jp.descrchecksum=
 jp.hrdchecksum=
 
 ##dependencies
-#jp.dependency.1.name = processmanager
-#jp.dependency.1.domain = jumpscale
+#jp.dependency.1.name = xfce4desktop
+#jp.dependency.1.domain = jsdesktop
 jp.process.tcpports=
 jp.process.startuptime=30

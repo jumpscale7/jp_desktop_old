@@ -21,6 +21,6 @@ def main(j,jp):
     # cmd2="apt-get update"
     # do.execute(cmd2)
 
-    cmd3="apt-get install libx11-6:i386 libxmu6:i386 libxext6:i386 libxrender1:i386 libstdc++6:i386 libc6:i386"
+    cmd3="apt-get install libx11-6:i386 libxmu6:i386 libxext6:i386 libxrender1:i386 libstdc++6:i386 libc6:i386 -y"
     do.execute(cmd3)
     

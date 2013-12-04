@@ -11,7 +11,7 @@ def main(j,jp):
     # do.execute("aptitude -f install -y")
 
     # can happen by e.g. installing a debian package e.g. by
-    names=["xfce4","scribus","firefox","gimp","tuxcmd","pidgin","evince","gnucash","inkscape","evolution"]
+    names=["xfce4","xfce4-terminal","scribus","firefox","gimp","tuxcmd","pidgin","evince","gnucash","inkscape","evolution"]
     for packagename in names:
         j.system.platform.ubuntu.install(packagename)
 
