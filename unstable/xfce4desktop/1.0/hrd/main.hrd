@@ -21,3 +21,5 @@ jp.dependency.1.name = icons
 jp.dependency.1.domain = jsdesktop
 jp.process.tcpports=
 jp.process.startuptime=30
+jp.dependency.1.minversion=
+jp.dependency.1.maxversion=
