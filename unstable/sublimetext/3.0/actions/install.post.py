@@ -5,7 +5,3 @@ def main(j,jp):
 
     j.system.fs.symlink(path="/opt/sublimetext/sublime_text", target="/usr/bin/sublime_text", overwriteTarget=True)
 
-    from IPython import embed
-    print "DEBUG NOW ooo"
-    embed()
-    

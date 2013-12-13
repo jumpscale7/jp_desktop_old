@@ -1,4 +1,4 @@
-2e9f0af0bbcdfc0f6fd44c6c0b975e5e
+1ef1308a4c3f16ea1eb66fc29e3a08bb
 f0402b443f103fdd78541a5afaf24e2c|opt/sublimetext/Icon/128x128/sublime_text.png
 ec9d6de9fe5c7d77238c574903061d46|opt/sublimetext/Icon/16x16/sublime_text.png
 5653f0b0f119c66a18c8afd51654badf|opt/sublimetext/Icon/256x256/sublime_text.png
@@ -589,6 +589,9 @@ c31fa41a52014340ae197ae88615e2c4|root/.config/sublime-text-2/Packages/JavaScript
 acecbee40db10f426ea1b8b3c9fa52ae|root/.config/sublime-text-2/Packages/JavaScript/if-___-else.sublime-snippet
 8935bc2d4d71c9428bdbffd90f769639|root/.config/sublime-text-2/Packages/JavaScript/if.sublime-snippet
 117d9adbbfd50a76d6dcf0a20a26754e|root/.config/sublime-text-2/Packages/JavaScript/setTimeout-function.sublime-snippet
+80709b3882370f9f7b5bd8636a0741c8|root/.config/sublime-text-2/Packages/JumpScale/ipdb.sublime-snippet
+83c03752b17e88641c2f9da57fc44b88|root/.config/sublime-text-2/Packages/JumpScale/ipshell.sublime-snippet
+d82a5c8df1ef41bf982238d0d6b3f9a4|root/.config/sublime-text-2/Packages/JumpScale/jumpscale.sublime-completions
 f803631ff319cb33a7257ddf6f5a9b75|root/.config/sublime-text-2/Packages/LaTeX/Bibtex.tmLanguage
 21b4202ec4ae951bcf80d7ad882b3b1e|root/.config/sublime-text-2/Packages/LaTeX/Bibtex.tmLanguage.cache
 2503db403cc60fcb43b278ed4cc150ea|root/.config/sublime-text-2/Packages/LaTeX/Cases.sublime-snippet
