@@ -5,7 +5,7 @@ def main(j,jp):
     j.system.platform.ubuntu.install('lftp')
     j.system.platform.ubuntu.install('software-properties-common')
 
-    p=j.packages.findByName("sublimetext*")[0]
+    p=j.packages.findByName("sublimetext*")
     p.install()
 
 #    p=j.packages.findByName("nxfree_server*")[0]
